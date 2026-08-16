@@ -1,6 +1,7 @@
 # ANDROID-ROBOT-3D-MODLE
 
-## Overview
+## Overview 
+I make an clin android robot disdain from my self and sum things I see in pichars
 
 ## Workflow & Process
 * **Concept & idea :** i get an idles from Pinterest and sum small knowledge of mine and make this by my own.
