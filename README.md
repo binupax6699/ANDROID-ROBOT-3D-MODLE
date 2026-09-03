@@ -7,13 +7,15 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 ## Workflow
 
 * **Concept & Design:** Developed the design from references and my own ideas.
-* **Modeling:** Built the robot from scratch with hard-surface techniques.
+* **Modeling:** Built the robot from scratch using hard-surface techniques.
 * **Texturing:** Used normal and bump maps for surface detail.
 * **Rigging:** Created a custom rig and manually weight-painted the model.
 
 ## Renders & Media
 
-**
+![Final Render](./images/final-render.jpg)
+
+![Front View](./images/front-view.jpg)
 
 **Full Project:** [https://drive.google.com/drive/folders/1lSgUhZPGHgEn2R5ZQvYJ-lxasyArEEU0?usp=sharing]
 
@@ -22,6 +24,7 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 * **Software:** Blender
 * **Type:** 3D Character
 * **Focus:** Modeling, Texturing & Rigging
+* **Time Spent:** XX hours
 * **Status:** Completed
 
 
