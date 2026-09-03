@@ -1,4 +1,4 @@
-# ANDROID ROBOT — 3D MODEL
+* # ANDROID ROBOT — 3D MODEL
 
 ## Overview
 
@@ -17,15 +17,17 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 
 ![Front View](002.png)
 
-**Full Project:** [https://drive.google.com/drive/folders/1lSgUhZPGHgEn2R5ZQvYJ-lxasyArEEU0?usp=sharing]
-* **(this goggle drive got .blend/screenshots of the prosec)**
+**Full Project:** [Google Drive](https://drive.google.com/drive/folders/1lSgUhZPGHgEn2R5ZQvYJ-lxasyArEEU0?usp=sharing)
+
+*Contains the `.blend` file, screenshots, and project files.*
 
 ## Project Info
 
 * **Software:** Blender
 * **Type:** 3D Character
 * **Focus:** Modeling, Texturing & Rigging
-* **Time Spent:** XX hours
+* **Time Spent:** 15-16 hours
 * **Status:** Completed
+
 
 
