@@ -13,9 +13,9 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 
 ## Renders & Media
 
-![Final Render](./images/final-render.jpg)
+![Final Render](001.png)
 
-![Front View](./images/front-view.jpg)
+![Front View](002.png)
 
 **Full Project:** [https://drive.google.com/drive/folders/1lSgUhZPGHgEn2R5ZQvYJ-lxasyArEEU0?usp=sharing]
 
