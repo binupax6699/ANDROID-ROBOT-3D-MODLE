@@ -19,7 +19,7 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 
 ## Demos
 
-**3D Model:** [View the 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/x-revenant-d105edc6008d4e148df14087eecc2355)
+**3D Model:** [View the 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/robot-2befd254d70046ec89fe90bb3b164431)
 
 ## Project Info
 
