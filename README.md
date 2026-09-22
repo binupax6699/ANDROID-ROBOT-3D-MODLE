@@ -2,20 +2,28 @@
 
 ## Overview
 
+<table>
+  <tr>
+    <td><img src="001.png" width="450"></td>
+    <td><img src="002.png" width="450"></td>
+  </tr>
+</table>
+
 A hard-surface Android-inspired robot designed and modeled from scratch in Blender, combining Pinterest references with my own design ideas.
 
 ## Workflow
+
+<table>
+  <tr>
+    <td><img src="clay_img/row1.png" width="450"></td>
+    <td><img src="clay_img/row2.png" width="450"></td>
+  </tr>
+</table>
 
 * **Concept & Design:** Developed the design from references and my own ideas.
 * **Modeling:** Built the robot from scratch using hard-surface techniques.
 * **Texturing:** Used normal and bump maps for surface detail.
 * **Rigging:** Created a custom rig and manually weight-painted the model.
-
-## Renders & Media
-
-![Final Render](001.png)
-
-![Front View](002.png)
 
 ## Demos
 
