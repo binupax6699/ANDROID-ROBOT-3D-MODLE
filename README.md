@@ -25,9 +25,9 @@ A hard-surface Android-inspired robot designed and modeled from scratch in Blend
 * **Texturing:** Used normal and bump maps for surface detail.
 * **Rigging:** Created a custom rig and manually weight-painted the model.
 
-## Demos
+## Demo
 
-**3D Model:** [View the 3D MODEL on Sketchfab] [SKETCHFAB_LINK](https://sketchfab.com/3d-models/robot-2befd254d70046ec89fe90bb3b164431)
+**3D Model:** [View the 3D MODEL on Sketchfab](https://sketchfab.com/3d-models/robot-2befd254d70046ec89fe90bb3b164431)
 
 ## License
 
